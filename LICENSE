@@ -1,0 +1,5 @@
+# LICENSE
+
+The library files `I2C_LCD.py` and `LCD_API.py` are provided by Freenove [(source)](https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi_Pico/tree/main/Python/Python_Libraries), licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+All other code in this repository is written by Elliott Botha (elksim) and licensed under the MIT License.  
